@@ -3,8 +3,7 @@
 
 A Full Stack Javascript Software Developer and Mobile Development enthusiast. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my <a href="https://wajdi-sadouki.vercel.app/" target="_blank">website</a>
-.
+### 🔭 Have a look at my [website](https://wajdi-sadouki.vercel.app/).
 
 
 ## ⚡ Tech Stack
