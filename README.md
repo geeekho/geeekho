@@ -1,5 +1,5 @@
 
-# Hi, I am Abm. Wajdi Sadouki 👨‍💻 
+# Hi, I am Wajdi Sadouki 👨‍💻 
 
 I am a Full Stack Javascript Software Developer and Mobile Development enthusiast. I am passionate about technologies and love to learn new things.
 
