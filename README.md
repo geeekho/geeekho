@@ -1,5 +1,5 @@
 
-# Hi, I'Wajdi Sadouki 👨‍💻 
+# Hi, I'm Wajdi Sadouki 👨‍💻 
 
 A Full Stack Javascript Software Developer and Mobile Development enthusiast. I am passionate about technologies and love to learn new things.
 
